@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EukeraUserApplication {
+public class EurekaProductApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(EukeraUserApplication.class, args);
+        SpringApplication.run(EurekaProductApplication.class, args);
     }
 }
